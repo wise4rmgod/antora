@@ -1,0 +1,16 @@
+site:
+  title: Wizzy Docs
+  start_page: component-b::index.adoc
+content:
+  sources:
+    - url: .
+      # - url: https://CrystalInstruments@dev.azure.com/CrystalInstruments/Antora/_git/component
+      start_path: docs
+
+ui:
+  bundle:
+    url: ./ui-bundle
+
+antora:
+  extensions:
+    - "@antora/lunr-extension"

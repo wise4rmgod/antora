@@ -1,0 +1,5 @@
+= Installation
+
+This is version *{page-component-display-version}* of Module Two in Component B.
+
+I hope this will work

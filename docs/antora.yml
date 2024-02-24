@@ -1,0 +1,6 @@
+name: component-b
+title: Getting started
+version:
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/module-one/nav.adoc

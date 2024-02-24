@@ -1,0 +1,6 @@
+= Getting Started Overview
+
+This is version *{page-component-display-version}* of Module Two in Component B.
+
+jgjgjgj
+== Page source
