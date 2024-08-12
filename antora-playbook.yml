@@ -10,7 +10,3 @@ content:
 ui:
   bundle:
     url: ./ui-bundle
-
-antora:
-  extensions:
-    - "@antora/lunr-extension"
